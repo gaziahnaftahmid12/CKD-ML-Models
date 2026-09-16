@@ -1,6 +1,5 @@
 # Predictive Analytics for CKD among Bangladeshi Diabetic Patients:A Comparative Machine Learning Study of Clinical and Lifestyle Predictors
 
-
 Code repository for the EMBA thesis:
 
 **"Predictive Analytics for Chronic Kidney Disease among Bangladeshi Diabetic Patients: A Comparative Machine Learning Study of Clinical and Lifestyle Predictors"**
